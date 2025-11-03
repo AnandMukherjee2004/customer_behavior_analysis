@@ -155,40 +155,7 @@ To add your Power BI dashboard screenshot:
 
 **[Dashboard Screenshot Placeholder]**
 
-<!-- Once you have your screenshot ready, replace the placeholder above with:
-![Customer Behavior Analysis Dashboard](./powerbi_dashboard.png)
-*Figure: Interactive Power BI Dashboard showing customer behavior insights*
--->
-
-### How to Add Your Dashboard Screenshot
-
-**Step 1: Capture Your Dashboard**
-- Open your Power BI dashboard
-- Ensure all visualizations are properly displayed
-- Take a high-resolution screenshot (recommended: 1920x1080 or higher)
-- Save the image as `powerbi_dashboard.png`
-
-**Step 2: Upload to Repository**
-- Navigate to this repository on GitHub
-- Click "Add file" → "Upload files"
-- Drag and drop your `powerbi_dashboard.png` file
-- Commit the changes
-
-**Step 3: Update README**
-- Edit this README.md file
-- Locate the "Dashboard Screenshot Placeholder" section above
-- Replace the placeholder text with:
-  ```markdown
-  ![Customer Behavior Analysis Dashboard](./powerbi_dashboard.png)
-  *Figure: Interactive Power BI Dashboard showing customer behavior insights*
-  ```
-- Commit your changes
-
-### Dashboard Access
-
-For interactive exploration of the dashboard:
-- **Power BI File**: _(Link to .pbix file will be added upon upload)_
-- **Published Dashboard**: _(Link to published Power BI report will be added upon publication)_
+![Customer Behavior Analysis Dashboard](bi_dashboard.png)
 
 ### Dashboard Insights Summary
 
